@@ -3,8 +3,8 @@
     let width = 100;
     let height = 100;
 
-    spaceOfRectangle = width * height;
-    console.log("The area of the rectangle is: " + spaceOfRectangle);   
+    areaOfRectangle = width * height;
+    console.log("The area of the rectangle is: " + areaOfRectangle);   
 
  // second lab question:
 
